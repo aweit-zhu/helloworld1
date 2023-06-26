@@ -14,6 +14,7 @@ steps:
   - echo $USERNAME
   - echo $USERNAME > a.txt
   - cat a.txt
+  - cat a.txt
 
 
 
